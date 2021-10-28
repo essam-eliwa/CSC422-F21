@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 main() => runApp(const MyApp());
 
+//Hello Flutter App Example
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
